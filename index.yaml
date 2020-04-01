@@ -3,9 +3,9 @@ entries:
   jenkins:
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2020-04-01T12:40:50.817844934+10:00"
+    created: "2020-04-01T15:05:07.075027658+10:00"
     description: A Helm chart for deploying Jenkins on OpenShift
-    digest: 9ebac1ef111d9674c5fbd0ea713a9ba768b95b96c8b343f768f0d1adfc79a404
+    digest: ac4587fc53af5d6bb3772f056b41ae270daf03370115ca6d087ebfe21326d260
     home: https://github.com/rht-labs/charts
     maintainers:
     - name: springdo
@@ -14,4 +14,28 @@ entries:
     urls:
     - https://eformat.github.io/helm-charts/jenkins-0.0.1.tgz
     version: 0.0.1
-generated: "2020-04-01T12:40:50.812523849+10:00"
+  sonarqube:
+  - apiVersion: v1
+    appVersion: 8.2-community
+    created: "2020-04-01T15:05:07.082867742+10:00"
+    description: SonarQube is an open sourced code quality scanning tool
+    digest: 40f198ae57c67be19c0199d5c7a93a4d4d9cd042c0b2a13b46f6f66cdca6e6f9
+    home: https://www.sonarqube.org/
+    icon: https://www.sonarqube.org/assets/logo-31ad3115b1b4b120f3d1efd63e6b13ac9f1f89437f0cf6881cc4d8b5603a52b4.svg
+    keywords:
+    - coverage
+    - security
+    - code
+    - quality
+    maintainers:
+    - email: rjkernick@gmail.com
+      name: rjkernick
+    - email: tsiddique@live.com
+      name: tsiddique
+    name: sonarqube
+    sources:
+    - https://github.com/SonarSource/docker-sonarqube
+    urls:
+    - https://eformat.github.io/helm-charts/sonarqube-5.1.0.tgz
+    version: 5.1.0
+generated: "2020-04-01T15:05:07.069507228+10:00"
