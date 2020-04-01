@@ -3,7 +3,7 @@ entries:
   jenkins:
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2020-04-01T16:10:31.738281383+10:00"
+    created: "2020-04-01T16:15:43.125067837+10:00"
     description: A Helm chart for deploying Jenkins on OpenShift
     digest: ac4587fc53af5d6bb3772f056b41ae270daf03370115ca6d087ebfe21326d260
     home: https://github.com/rht-labs/charts
@@ -40,7 +40,27 @@ entries:
     version: 5.1.0
   - apiVersion: v1
     appVersion: 8.2-community
-    created: "2020-04-01T16:10:31.745874406+10:00"
+    created: "2020-04-01T16:15:43.138956428+10:00"
+    description: SonarQube is an open sourced code quality scanning tool
+    digest: 7b693912e93268ae756968dc0479f75b68d681ad40ce8979df388d537273e876
+    home: https://www.sonarqube.org/
+    icon: https://www.sonarqube.org/assets/logo-31ad3115b1b4b120f3d1efd63e6b13ac9f1f89437f0cf6881cc4d8b5603a52b4.svg
+    keywords:
+    - coverage
+    - security
+    - code
+    - quality
+    maintainers:
+    - name: eformat
+    name: sonarqube
+    sources:
+    - https://github.com/SonarSource/docker-sonarqube
+    urls:
+    - https://eformat.github.io/helm-charts/sonarqube-v0.0.2.tgz
+    version: v0.0.2
+  - apiVersion: v1
+    appVersion: 8.2-community
+    created: "2020-04-01T16:15:43.1318205+10:00"
     description: SonarQube is an open sourced code quality scanning tool
     digest: 2e526d7c3cf2d74ace4bdc19cf7781b821bc2430f36169d2980674cdd4509679
     home: https://www.sonarqube.org/
@@ -58,4 +78,4 @@ entries:
     urls:
     - https://eformat.github.io/helm-charts/sonarqube-v0.0.1.tgz
     version: v0.0.1
-generated: "2020-04-01T16:10:31.733004593+10:00"
+generated: "2020-04-01T16:15:43.118080492+10:00"
