@@ -3,7 +3,7 @@ entries:
   jenkins:
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2020-04-01T15:05:07.075027658+10:00"
+    created: "2020-04-01T15:23:21.129617322+10:00"
     description: A Helm chart for deploying Jenkins on OpenShift
     digest: ac4587fc53af5d6bb3772f056b41ae270daf03370115ca6d087ebfe21326d260
     home: https://github.com/rht-labs/charts
@@ -17,7 +17,7 @@ entries:
   sonarqube:
   - apiVersion: v1
     appVersion: 8.2-community
-    created: "2020-04-01T15:05:07.082867742+10:00"
+    created: "2020-04-01T15:23:21.136804192+10:00"
     description: SonarQube is an open sourced code quality scanning tool
     digest: 40f198ae57c67be19c0199d5c7a93a4d4d9cd042c0b2a13b46f6f66cdca6e6f9
     home: https://www.sonarqube.org/
@@ -38,4 +38,4 @@ entries:
     urls:
     - https://eformat.github.io/helm-charts/sonarqube-5.1.0.tgz
     version: 5.1.0
-generated: "2020-04-01T15:05:07.069507228+10:00"
+generated: "2020-04-01T15:23:21.123924633+10:00"
