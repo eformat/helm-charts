@@ -3,7 +3,7 @@ entries:
   argocd-operator:
   - apiVersion: v2
     appVersion: v1.5.4
-    created: "2020-05-27T15:55:56.85439079+10:00"
+    created: "2020-05-27T16:05:25.669446051+10:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: 77b69cae14d63a04e360dd583051d597c1d814031e02bc6e88dad6b6c6cf28d0
@@ -18,7 +18,7 @@ entries:
     version: 0.0.8
   - apiVersion: v2
     appVersion: v1.5.2
-    created: "2020-05-27T15:55:56.853931454+10:00"
+    created: "2020-05-27T16:05:25.669046071+10:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: 28393cf91acd297e3761ad1871e6155d42f838998ecf0da13e4e38daa5a2fedc
@@ -33,7 +33,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: v0.0.2
-    created: "2020-05-27T15:55:56.853414532+10:00"
+    created: "2020-05-27T16:05:25.66856083+10:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: 9f16dde77f20caa192d2f5c50eb66c5f47c364f7baa9ba45082f108cc8387786
@@ -48,7 +48,7 @@ entries:
   dev-ex-dashboard:
   - apiVersion: v2
     appVersion: v1.0
-    created: "2020-05-27T15:55:56.855357375+10:00"
+    created: "2020-05-27T16:05:25.670362701+10:00"
     description: A Helm chart to deploy the Developer Experience Dashboard
     digest: fecb233e5836cda629961847107fa7542e54a067327277cf8a84a2eaf1a8faab
     home: https://github.com/rht-labs/helm-charts
@@ -64,7 +64,7 @@ entries:
   etherpad:
   - apiVersion: v2
     appVersion: latest
-    created: "2020-05-27T15:55:56.855902136+10:00"
+    created: "2020-05-27T16:05:25.670870159+10:00"
     description: A Helm chart for etherpad lite
     digest: 0da183b78523871fab1ee193cb702d5ddc4ee20d1b54b856923b7d077548dfb3
     name: etherpad
@@ -171,7 +171,7 @@ entries:
   jenkins:
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2020-05-27T15:55:56.857942854+10:00"
+    created: "2020-05-27T16:05:25.673363837+10:00"
     description: A Helm chart for deploying Jenkins on OpenShift
     digest: c74406aceee8c34325782cec24d95caed0c55b0e11e516df799d8952029e4a4a
     home: https://github.com/rht-labs/helm-charts
@@ -184,7 +184,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2020-05-27T15:55:56.861511413+10:00"
+    created: "2020-05-27T16:05:25.676420798+10:00"
     description: A Helm chart for deploying Jenkins on OpenShift
     digest: 7768b83b0286e78f5ff0c300b22cc60fe285ffad8b5be4c1b56eac77c8d298d0
     home: https://github.com/rht-labs/helm-charts
@@ -197,7 +197,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2020-05-27T15:55:56.859070055+10:00"
+    created: "2020-05-27T16:05:25.67533135+10:00"
     description: A Helm chart for deploying Jenkins on OpenShift
     digest: 38d26847799b5e83a57139fc1658443946ef935c35148ed1b66edeb2d9e541d0
     home: https://github.com/rht-labs/charts
@@ -210,7 +210,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2020-05-27T15:55:56.856600114+10:00"
+    created: "2020-05-27T16:05:25.6717095+10:00"
     description: A Helm chart for deploying Jenkins on OpenShift
     digest: ac4587fc53af5d6bb3772f056b41ae270daf03370115ca6d087ebfe21326d260
     home: https://github.com/rht-labs/charts
@@ -222,9 +222,22 @@ entries:
     - https://eformat.github.io/helm-charts/jenkins-0.0.1.tgz
     version: 0.0.1
   pet-battle:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-05-27T16:05:25.677055754+10:00"
+    description: A Helm chart to deploy the frontend of the Pet Battle
+    digest: fb35647b77d8bc249649dd4e4b67731b93313935bdf33e2946696c51854c4ce1
+    home: https://springdo.github.io/pet-battle
+    maintainers:
+    - name: springdo
+    name: pet-battle
+    type: application
+    urls:
+    - https://eformat.github.io/helm-charts/pet-battle-1.0.0.tgz
+    version: 1.0.0
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2020-05-27T15:55:56.86198027+10:00"
+    created: "2020-05-27T16:05:25.67668168+10:00"
     description: A Helm chart to deploy the frontend of the Pet Battle
     digest: aa117e5fcffc75803d4bb8d42be3eec648d8f6388083c59be3ccf7ce0799dd4a
     name: pet-battle
@@ -235,7 +248,7 @@ entries:
   pet-battle-api:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-05-27T15:55:56.865238938+10:00"
+    created: "2020-05-27T16:05:25.679992631+10:00"
     description: A Helm chart for Kubernetes
     digest: 60ee116c6ec0ee7d49da6c2e62e8b9f2c43072d36a0c703d0f2194460382c535
     home: https://eformat.github.io/helm-charts
@@ -248,7 +261,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: latest
-    created: "2020-05-27T15:55:56.86477485+10:00"
+    created: "2020-05-27T16:05:25.679446909+10:00"
     description: A Helm chart for Kubernetes
     digest: 751fd8013e3ef6eb7851618d102eb738281f2b042c35ff726733ecbf8ecdf4bd
     home: https://eformat.github.io/helm-charts
@@ -261,7 +274,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-05-27T15:55:56.86432658+10:00"
+    created: "2020-05-27T16:05:25.679040863+10:00"
     description: A Helm chart for Kubernetes
     digest: c9fd10a9c9dc1b8ea6943874645d8c43c45af2b8c256d3e55895eaa866fe7f70
     name: pet-battle-api
@@ -271,7 +284,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-05-27T15:55:56.863966178+10:00"
+    created: "2020-05-27T16:05:25.678619531+10:00"
     dependencies:
     - name: mongodb-replicaset
       repository: https://kubernetes-charts.storage.googleapis.com
@@ -286,7 +299,7 @@ entries:
   pet-battle-nsfw:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2020-05-27T15:55:56.86566533+10:00"
+    created: "2020-05-27T16:05:25.680397268+10:00"
     description: A Helm chart for installing NSFW Pet Battle AI-ML components
     digest: 47c7539be313133c7ed90610d3010a313f5e51c09deadc93e47381ba0570276b
     home: https://eformat.github.io/helm-charts/
@@ -323,7 +336,7 @@ entries:
     version: 5.1.0
   - apiVersion: v1
     appVersion: 8.2-community
-    created: "2020-05-27T15:55:56.866732443+10:00"
+    created: "2020-05-27T16:05:25.68178568+10:00"
     description: SonarQube is an open sourced code quality scanning tool
     digest: cfa6fad38995b64e099a531ac2cb38d2a9090e83b9045d048f2424b70b08eff9
     home: https://github.com/eformat/charts
@@ -341,7 +354,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 8.2-community
-    created: "2020-05-27T15:55:56.867593598+10:00"
+    created: "2020-05-27T16:05:25.682909242+10:00"
     description: SonarQube is an open sourced code quality scanning tool
     digest: 38f830ed719eaddf0776303dd8ddd6dde1b4d2caecb0dfe17bff638106f28a8f
     home: https://www.sonarqube.org/
@@ -422,7 +435,7 @@ entries:
   sonatype-nexus:
   - apiVersion: v1
     appVersion: 3.23.0
-    created: "2020-05-27T15:55:56.869119728+10:00"
+    created: "2020-05-27T16:05:25.685384076+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: 23d5153ac70f5822208ea0af08636dc8069846401ae8f4900a5cae2553db9aa4
     home: https://github.com/rht-labs/helm-charts
@@ -436,7 +449,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 3.23.0
-    created: "2020-05-27T15:55:56.868365029+10:00"
+    created: "2020-05-27T16:05:25.683745552+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: 816fc80f36be052afe8a53befcb49a3ae1a3e3e41584611848405e036b898eeb
     home: https://github.com/rht-labs/helm-charts
@@ -448,4 +461,4 @@ entries:
     urls:
     - https://eformat.github.io/helm-charts/sonatype-nexus-0.0.1.tgz
     version: 0.0.1
-generated: "2020-05-27T15:55:56.85286011+10:00"
+generated: "2020-05-27T16:05:25.668063678+10:00"
