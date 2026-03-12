@@ -3,7 +3,7 @@ entries:
   airflow:
   - apiVersion: v2
     appVersion: 2.5.1
-    created: "2026-03-12T09:54:38.766490111+10:00"
+    created: "2026-03-12T15:55:11.220482207+10:00"
     description: A Helm chart for Airflow on Kubernetes
     digest: c51b719a840d16df9ddf22ae4953868b65aa33799d13dfec0e83ae96deec5f22
     home: https://github.com/efomat/openshift-airflow
@@ -16,7 +16,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 2.3.2
-    created: "2026-03-12T09:54:38.765741434+10:00"
+    created: "2026-03-12T15:55:11.219538543+10:00"
     description: A Helm chart for Airflow on Kubernetes
     digest: f77ff75d1dd00187bbdeb5dd5cd052ff9469cabd0bf38cd07d5b16bb2dd90641
     home: https://github.com/efomat/openshift-airflow
@@ -30,7 +30,7 @@ entries:
   argocd-operator:
   - apiVersion: v2
     appVersion: v2.1.5
-    created: "2026-03-12T09:54:38.770068313+10:00"
+    created: "2026-03-12T15:55:11.225215386+10:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: 2c827be3fc7f487a1ecddf6f2c834bcd0ac6cf8a73122baba6fb6bee8f2b77c0
@@ -46,7 +46,7 @@ entries:
     version: 1.1.14
   - apiVersion: v2
     appVersion: v2.0.2
-    created: "2026-03-12T09:54:38.771049432+10:00"
+    created: "2026-03-12T15:55:11.227026198+10:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: 4763b1e1ccf7cd7b4b52c1d4e167b90852e2b449a1f21b418f727e0c54898499
@@ -63,7 +63,7 @@ entries:
     version: 1.1.9
   - apiVersion: v2
     appVersion: v2.0.2
-    created: "2026-03-12T09:54:38.770708372+10:00"
+    created: "2026-03-12T15:55:11.226284425+10:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: 9c3b449260b0b7e33a56c63e31eb33923e23448c1438e000aa54232580697ba6
@@ -80,7 +80,7 @@ entries:
     version: 1.1.4
   - apiVersion: v2
     appVersion: v1.8.7
-    created: "2026-03-12T09:54:38.770382396+10:00"
+    created: "2026-03-12T15:55:11.225847493+10:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: c42b30c996aa2aed23e2e662d91f58763c2e9c4016d9ae39fe4cf1f6f60d7f9b
@@ -97,7 +97,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: v1.8.7
-    created: "2026-03-12T09:54:38.769705515+10:00"
+    created: "2026-03-12T15:55:11.224568808+10:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: 81cfe142031afda42d24ccb5606bfb1b3321e80c405f852916c4b37d1baf8f07
@@ -114,7 +114,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.8.3
-    created: "2026-03-12T09:54:38.769324471+10:00"
+    created: "2026-03-12T15:55:11.223774241+10:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: c5b41754b7d511325bd2ef760f2755215c280a905f922aeaeba21c14945e8d8b
@@ -131,7 +131,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: v1.8.3
-    created: "2026-03-12T09:54:38.768938006+10:00"
+    created: "2026-03-12T15:55:11.222891204+10:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: 2a22384560c18a5f4359e498b11f98798cc51bf0a1f4376efe61beca1d0a217b
@@ -148,7 +148,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: v1.6.1
-    created: "2026-03-12T09:54:38.767112221+10:00"
+    created: "2026-03-12T15:55:11.221482007+10:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: d9bf899bd9ba53f0844d893ebde2317255448b7e768a1a7fa29653930b2a532f
@@ -164,7 +164,7 @@ entries:
     version: 0.0.14
   - apiVersion: v2
     appVersion: v1.6.0
-    created: "2026-03-12T09:54:38.766782989+10:00"
+    created: "2026-03-12T15:55:11.221083148+10:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: 769c4e1446e67ea7212c4de84b3392203615cb739ab158213847a20a53b9cf99
@@ -180,7 +180,7 @@ entries:
     version: 0.0.13
   - apiVersion: v2
     appVersion: v1.5.4
-    created: "2026-03-12T09:54:38.767863907+10:00"
+    created: "2026-03-12T15:55:11.222440486+10:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: 77b69cae14d63a04e360dd583051d597c1d814031e02bc6e88dad6b6c6cf28d0
@@ -195,7 +195,7 @@ entries:
     version: 0.0.8
   - apiVersion: v2
     appVersion: v1.5.2
-    created: "2026-03-12T09:54:38.767611631+10:00"
+    created: "2026-03-12T15:55:11.222103107+10:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: 28393cf91acd297e3761ad1871e6155d42f838998ecf0da13e4e38daa5a2fedc
@@ -210,7 +210,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: v0.0.2
-    created: "2026-03-12T09:54:38.767340453+10:00"
+    created: "2026-03-12T15:55:11.221786212+10:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: 9f16dde77f20caa192d2f5c50eb66c5f47c364f7baa9ba45082f108cc8387786
@@ -225,7 +225,7 @@ entries:
   boot-project:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2026-03-12T09:54:38.771271192+10:00"
+    created: "2026-03-12T15:55:11.227886759+10:00"
     description: A Project Bootstrap Chart
     digest: 575d40f5b362608d50b4936296a3a6a2e36e61c4784c60076cdd8c72ce276244
     keywords:
@@ -240,7 +240,7 @@ entries:
   bootstrap-project:
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2026-03-12T09:54:38.771641763+10:00"
+    created: "2026-03-12T15:55:11.228409524+10:00"
     description: "A Helm chart for deploying and managing Openshift projects \U0001F986"
     digest: 08df2c2facb633f68b08a8e56a706278f0a8669b713f4bacaa11d2fc27278844
     home: https://github.com/redhat-cop/helm-charts
@@ -254,7 +254,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2026-03-12T09:54:38.772434543+10:00"
+    created: "2026-03-12T15:55:11.229430539+10:00"
     description: "A Helm chart for deploying and managing Openshift projects \U0001F986"
     digest: 432bc390c132e071a2c9e14b58e2b97389e9bf0e8b0b957a69df722077658bde
     home: https://github.com/redhat-cop/helm-charts
@@ -268,7 +268,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2026-03-12T09:54:38.772069829+10:00"
+    created: "2026-03-12T15:55:11.228977026+10:00"
     description: "A Helm chart for deploying and managing Openshift projects \U0001F986"
     digest: d52979f24807034e27d2618df292c023da86e9aec654cfb000cf2fef5e608a8c
     home: https://github.com/redhat-cop/helm-charts
@@ -280,10 +280,21 @@ entries:
     urls:
     - https://eformat.github.io/helm-charts/bootstrap-project-0.0.8.tgz
     version: 0.0.8
+  daamclaw:
+  - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2026-03-12T15:55:11.229636248+10:00"
+    description: Enterprise Agent Orchestration for the Red Hat Ecosystem
+    digest: 7dc7102af67a750a43568d95843eb7521cf2e8d4b7256214f30e325b5106edbe
+    name: daamclaw
+    type: application
+    urls:
+    - https://eformat.github.io/helm-charts/daamclaw-0.1.0.tgz
+    version: 0.1.0
   dev-ex-dashboard:
   - apiVersion: v2
     appVersion: v1.0
-    created: "2026-03-12T09:54:38.773656286+10:00"
+    created: "2026-03-12T15:55:11.23017746+10:00"
     description: A Helm chart to deploy the Developer Experience Dashboard
     digest: fecb233e5836cda629961847107fa7542e54a067327277cf8a84a2eaf1a8faab
     home: https://github.com/rht-labs/helm-charts
@@ -299,7 +310,7 @@ entries:
   document-loader-service:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:38.773988086+10:00"
+    created: "2026-03-12T15:55:11.230660902+10:00"
     description: Document Loader Service Application
     digest: 7b6f805967f41ba5cda0ff936794366381d80a0826bbf6a2ad3824a61d38d417
     home: https://labs/helm-charts
@@ -319,7 +330,7 @@ entries:
   etherpad:
   - apiVersion: v2
     appVersion: latest
-    created: "2026-03-12T09:54:38.774244717+10:00"
+    created: "2026-03-12T15:55:11.230981682+10:00"
     description: A Helm chart for etherpad lite
     digest: 0da183b78523871fab1ee193cb702d5ddc4ee20d1b54b856923b7d077548dfb3
     name: etherpad
@@ -330,7 +341,7 @@ entries:
   gitops-operator:
   - apiVersion: v2
     appVersion: v2.10.5
-    created: "2026-03-12T09:54:38.793968453+10:00"
+    created: "2026-03-12T15:55:11.247355735+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 15376260c7485cd46b37e3ed72b3b61940980e8711b5993928cdac024767217f
@@ -345,7 +356,7 @@ entries:
     version: 0.10.5
   - apiVersion: v2
     appVersion: v2.10.3
-    created: "2026-03-12T09:54:38.785420974+10:00"
+    created: "2026-03-12T15:55:11.240447594+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 0032d10d97ec381080180479612a0feee094e188b2925d87bc7b989ec9b5db91
@@ -360,7 +371,7 @@ entries:
     version: 0.10.3
   - apiVersion: v2
     appVersion: v2.9.5
-    created: "2026-03-12T09:54:39.059198377+10:00"
+    created: "2026-03-12T15:55:11.585547504+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: df00027ac4f42270401734eab0acc7ec0aadea857b84d94d9a3e605adfa319fd
@@ -375,7 +386,7 @@ entries:
     version: 0.9.5
   - apiVersion: v2
     appVersion: v2.9.3
-    created: "2026-03-12T09:54:39.048570553+10:00"
+    created: "2026-03-12T15:55:11.576072091+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: d429dfde153e4273b44f8ba909d718e06c22a4c889c854d109011e93288f482e
@@ -390,7 +401,7 @@ entries:
     version: 0.9.3
   - apiVersion: v2
     appVersion: v2.8.6
-    created: "2026-03-12T09:54:39.03831208+10:00"
+    created: "2026-03-12T15:55:11.564117794+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 1acabe7d8934d8764af7ac07b55cacd54f6af4f1184cb8c22d110f152c4a671f
@@ -405,7 +416,7 @@ entries:
     version: 0.8.6
   - apiVersion: v2
     appVersion: v2.8.3
-    created: "2026-03-12T09:54:39.030736835+10:00"
+    created: "2026-03-12T15:55:11.556268841+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 396fcd7e0442e5c9b438938776172c864a0eaaba548c753163daf06bcd0d3bac
@@ -420,7 +431,7 @@ entries:
     version: 0.8.3
   - apiVersion: v2
     appVersion: v2.7.14
-    created: "2026-03-12T09:54:38.971605086+10:00"
+    created: "2026-03-12T15:55:11.501792707+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 759cafef8e87b171c187b37f6e6c44d794ddfaad021e850857a589a4bc7b67b8
@@ -435,7 +446,7 @@ entries:
     version: 0.7.14
   - apiVersion: v2
     appVersion: v2.7.13
-    created: "2026-03-12T09:54:38.964472659+10:00"
+    created: "2026-03-12T15:55:11.491656649+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: ba8f417b4360a81d09c660a5d8cac51d0aefe57e432ea6b6bb6e65398a802b21
@@ -450,7 +461,7 @@ entries:
     version: 0.7.13
   - apiVersion: v2
     appVersion: v2.7.10
-    created: "2026-03-12T09:54:38.958146779+10:00"
+    created: "2026-03-12T15:55:11.483010913+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 8d22d249e1e3687662abdaaaa8a55c5f7c1307d1a61409c24c0a7cb085ece3e3
@@ -465,7 +476,7 @@ entries:
     version: 0.7.10
   - apiVersion: v2
     appVersion: v2.7.8
-    created: "2026-03-12T09:54:39.023426752+10:00"
+    created: "2026-03-12T15:55:11.547600794+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 8d782ff1bb9d98fc53736ddc8dbf8bd63776041b285583c93a0c064250b151bf
@@ -480,7 +491,7 @@ entries:
     version: 0.7.8
   - apiVersion: v2
     appVersion: v2.7.7
-    created: "2026-03-12T09:54:39.015746558+10:00"
+    created: "2026-03-12T15:55:11.539978023+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 8534d2939e8fb7021f560860414092bd7ceb6cfa088475beaf4d555564d0312e
@@ -495,7 +506,7 @@ entries:
     version: 0.7.7
   - apiVersion: v2
     appVersion: v2.7.6
-    created: "2026-03-12T09:54:39.008565443+10:00"
+    created: "2026-03-12T15:55:11.531653216+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 8b87082dddf3e32ba0f088c92ebe2fed0ab42496816e7a2cd517b8cda9e3b29d
@@ -510,7 +521,7 @@ entries:
     version: 0.7.6
   - apiVersion: v2
     appVersion: v2.7.5
-    created: "2026-03-12T09:54:39.000050495+10:00"
+    created: "2026-03-12T15:55:11.524454571+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: fcd63daea21f4d57a0c02b9130b214928bce5dcff15b6de0a3bb6b49fc784f9f
@@ -525,7 +536,7 @@ entries:
     version: 0.7.5
   - apiVersion: v2
     appVersion: v2.7.4
-    created: "2026-03-12T09:54:38.992112801+10:00"
+    created: "2026-03-12T15:55:11.51712932+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 634439fd482a564c1a875a7de986a8e690d4339fa91a48ec73ebafbafe0f51d1
@@ -540,7 +551,7 @@ entries:
     version: 0.7.4
   - apiVersion: v2
     appVersion: v2.7.3
-    created: "2026-03-12T09:54:38.979430711+10:00"
+    created: "2026-03-12T15:55:11.509568599+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: a1b79dfd5bd51965dd99124fa030ef96a35b51fec594d09548309c4fdeef1ba3
@@ -555,7 +566,7 @@ entries:
     version: 0.7.2
   - apiVersion: v2
     appVersion: v2.7.2
-    created: "2026-03-12T09:54:38.951892891+10:00"
+    created: "2026-03-12T15:55:11.472338133+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 4b0945aaa501bb1c8536d19b88e824c645b9d6288f1c18f321d681fd0fbc22bd
@@ -570,7 +581,7 @@ entries:
     version: 0.7.1
   - apiVersion: v2
     appVersion: v2.7.1
-    created: "2026-03-12T09:54:38.944896882+10:00"
+    created: "2026-03-12T15:55:11.458548694+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 478301211fcb7ac8752e7b1f467b858cd6a420a938f2780cba0250b3b3daeca9
@@ -585,7 +596,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: v2.6.7
-    created: "2026-03-12T09:54:38.937760868+10:00"
+    created: "2026-03-12T15:55:11.439667163+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: de470497213402b087d2940e0eb1a27ffb02f16774bf99d17d2fd8b574cf89ac
@@ -600,7 +611,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: v2.6.6
-    created: "2026-03-12T09:54:38.931678819+10:00"
+    created: "2026-03-12T15:55:11.423812718+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 27763b4f4e51e47822bd85fb228eb577f8c3676fc55dc65b212990b7ebbb5f74
@@ -615,7 +626,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: v2.5.14
-    created: "2026-03-12T09:54:38.924646294+10:00"
+    created: "2026-03-12T15:55:11.417240699+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 8b5e1a19d27fe69a502c6c93ef73c4011d47014e45a8d8f6b4080dc7df9570e6
@@ -630,7 +641,7 @@ entries:
     version: 0.5.8
   - apiVersion: v2
     appVersion: v2.5.12
-    created: "2026-03-12T09:54:38.91736451+10:00"
+    created: "2026-03-12T15:55:11.40672817+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 88897798860ab14109228ff25ea4aa751904202a8bf2a74bdbb8238f8be68df1
@@ -645,7 +656,7 @@ entries:
     version: 0.5.7
   - apiVersion: v2
     appVersion: v2.5.11
-    created: "2026-03-12T09:54:38.910030869+10:00"
+    created: "2026-03-12T15:55:11.394614371+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 51db333f022d2e73c76fb6cdaba5565fd2f88a8632a22fcfa2fef225b7f7b1e8
@@ -660,7 +671,7 @@ entries:
     version: 0.5.6
   - apiVersion: v2
     appVersion: v2.5.9
-    created: "2026-03-12T09:54:38.902245574+10:00"
+    created: "2026-03-12T15:55:11.384402152+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 9af1d726f1637c6fab8127bfb7782b0a7229b23e6d4530b3a3921d30b836821d
@@ -675,7 +686,7 @@ entries:
     version: 0.5.5
   - apiVersion: v2
     appVersion: v2.5.7
-    created: "2026-03-12T09:54:38.892771536+10:00"
+    created: "2026-03-12T15:55:11.375004606+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: f8a09ed73048f72c81098f658190565bcfe4bd1acdac90fe8be603735c2ac88a
@@ -690,7 +701,7 @@ entries:
     version: 0.5.4
   - apiVersion: v2
     appVersion: v2.5.5
-    created: "2026-03-12T09:54:38.880328843+10:00"
+    created: "2026-03-12T15:55:11.366895787+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: ce1523eec75284880c0de092f4b109d25a7c9283c6735c9f9ddf8fc3ba2ae6bd
@@ -705,7 +716,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: v2.5.4
-    created: "2026-03-12T09:54:38.872804927+10:00"
+    created: "2026-03-12T15:55:11.357555296+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 6c96ddf496125db7bc24a01560ef85cd7cebea18f9494f09d0bfc7e258ebfb74
@@ -720,7 +731,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: v2.4.17
-    created: "2026-03-12T09:54:38.864427198+10:00"
+    created: "2026-03-12T15:55:11.347928727+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 6652f5613be840ce4267aede107c8923ac5fea20a4b2f8e26a2220f83bd0aa27
@@ -735,7 +746,7 @@ entries:
     version: 0.4.9
   - apiVersion: v2
     appVersion: v2.4.15
-    created: "2026-03-12T09:54:38.857256432+10:00"
+    created: "2026-03-12T15:55:11.340416563+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: efd2367132603b879a6272fe32f37a2e4197374691182906b1018f6858d12e1f
@@ -750,7 +761,7 @@ entries:
     version: 0.4.8
   - apiVersion: v2
     appVersion: v2.4.14
-    created: "2026-03-12T09:54:38.851180296+10:00"
+    created: "2026-03-12T15:55:11.333049287+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: a23a7d20afd616eddbb99ca520bb807de7074c4303311220d52c6ee41aafcef5
@@ -765,7 +776,7 @@ entries:
     version: 0.4.7
   - apiVersion: v2
     appVersion: v2.4.10
-    created: "2026-03-12T09:54:38.844080421+10:00"
+    created: "2026-03-12T15:55:11.326173152+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 69803fa06d8b197ced419256303bf3e2f7defd1531874d8e523b5822978bd565
@@ -780,7 +791,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: v2.4.10
-    created: "2026-03-12T09:54:38.837782442+10:00"
+    created: "2026-03-12T15:55:11.314277178+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: deb1d2dccf1a6c2adb1e22d286b0bf032d7170afa6769ae03fd034c7d97f8241
@@ -795,7 +806,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: v2.4.9
-    created: "2026-03-12T09:54:38.828146719+10:00"
+    created: "2026-03-12T15:55:11.300445131+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: e2844ea3bf9edd2047f6aa2b58d775a8ee89828492b140a5757be2e94074f0a6
@@ -810,7 +821,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: v2.4.7
-    created: "2026-03-12T09:54:38.818417388+10:00"
+    created: "2026-03-12T15:55:11.287469214+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: a6b7924c9a60ad2889e6a541ba897faf7f0be68c018d94dabffa50b448c97612
@@ -825,7 +836,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: v2.3.3
-    created: "2026-03-12T09:54:38.811364824+10:00"
+    created: "2026-03-12T15:55:11.273117603+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 37dd1e1623213afceeb787427a278389ef9c99ee0f442246e772b1f6d8d284db
@@ -840,7 +851,7 @@ entries:
     version: 0.3.4
   - apiVersion: v2
     appVersion: v2.3.2
-    created: "2026-03-12T09:54:38.804273215+10:00"
+    created: "2026-03-12T15:55:11.259127441+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: f77462c38b96e30deb7ff09eb7ace75491861f41a84c5bc907eab48f72b2a489
@@ -855,7 +866,7 @@ entries:
     version: 0.3.3
   - apiVersion: v2
     appVersion: v2.3.1
-    created: "2026-03-12T09:54:38.796152724+10:00"
+    created: "2026-03-12T15:55:11.251617679+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 4bf24efea1b5f5c99db7f3b95f5f431ebfb0f439b82f075f84df28712a34af22
@@ -870,7 +881,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: v2.2.7
-    created: "2026-03-12T09:54:38.795774308+10:00"
+    created: "2026-03-12T15:55:11.251101402+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: f124b65100c4878497f3c841b65a50c4558fd8515ae845270d434ff8a9fb8e45
@@ -885,7 +896,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: v2.2.5
-    created: "2026-03-12T09:54:38.795425283+10:00"
+    created: "2026-03-12T15:55:11.250332619+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 11e7db4fac77882b1d9cdc0c13a843089a4b550a2f02886ca008135d469e7ba4
@@ -900,7 +911,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: v2.2.4
-    created: "2026-03-12T09:54:38.795084788+10:00"
+    created: "2026-03-12T15:55:11.249596068+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: cb80bd3c78e5ff3aefe7107965270f203ab2ed4113002036115b2a132fc39674
@@ -915,7 +926,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: v2.2.3
-    created: "2026-03-12T09:54:38.794742176+10:00"
+    created: "2026-03-12T15:55:11.248856818+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 24f81402dd40a652c0de95d4824d0ebb4071abb67b77701c28bd625f849657d2
@@ -930,7 +941,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: v2.2.2
-    created: "2026-03-12T09:54:38.794372583+10:00"
+    created: "2026-03-12T15:55:11.247787264+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 2e0204e7db5f5f0a4711cc5055855c9943641e05e0d7c2dfd11097466a83e656
@@ -945,7 +956,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: v2.1.8
-    created: "2026-03-12T09:54:38.775311987+10:00"
+    created: "2026-03-12T15:55:11.232186184+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: fa88cfc50a1dbd4141eaefc2ea645054345bfc1997e0cd080823ed6440b73244
@@ -960,7 +971,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: v2.1.7
-    created: "2026-03-12T09:54:38.775007436+10:00"
+    created: "2026-03-12T15:55:11.231767232+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 5cd869836900b4c32ea4829cc780d0eed19c1cabe888518eda2e8c00a479af1f
@@ -975,7 +986,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: v2.1.7
-    created: "2026-03-12T09:54:38.774603003+10:00"
+    created: "2026-03-12T15:55:11.231344884+10:00"
     description: "A Helm chart for customising the deployment of the Red Hat GitOps
       Operator \U0001F52B"
     digest: 2e671e15e7c43904d3a3d3d8976d69a100642fa864911aa41f762922c7cf6e44
@@ -990,7 +1001,7 @@ entries:
   helper-sealed-secrets:
   - apiVersion: v2
     appVersion: v1
-    created: "2026-03-12T09:54:39.05936634+10:00"
+    created: "2026-03-12T15:55:11.585760201+10:00"
     description: "A Helm Chart for managing Sealed Secrets \U0001F575️♀️\U0001F510"
     digest: 2f87685b2a968ee24c442372cd363379861bf84e9c101e91077c171899dbf809
     home: https://github.com/redhat-cop/helm-charts
@@ -1006,7 +1017,7 @@ entries:
   ipa:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-03-12T09:54:39.060143245+10:00"
+    created: "2026-03-12T15:55:11.587044515+10:00"
     dependencies:
     - condition: ldap_group_sync
       name: cronjob-ldap-group-sync
@@ -1026,7 +1037,7 @@ entries:
     version: 1.3.8
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-03-12T09:54:39.059615092+10:00"
+    created: "2026-03-12T15:55:11.586150448+10:00"
     description: A Helm chart ti install FreeIPA
     digest: 07d3812269a7cfdbf1ee9570d3dc44c11964d779084a2b23b49f9465bab1bd18
     home: https://github.com/redhat-cop/helm-charts
@@ -1042,7 +1053,7 @@ entries:
   jenkins:
   - apiVersion: v2
     appVersion: v2.222.1
-    created: "2026-03-12T09:54:39.061543704+10:00"
+    created: "2026-03-12T15:55:11.589116291+10:00"
     description: A Helm chart for deploying Jenkins on OpenShift with some additional
       build agents and plugins
     digest: cab61866641dec1633a40b41122d795cd96f4b63035d981c262a8deba16f2535
@@ -1057,7 +1068,7 @@ entries:
     version: 0.0.20
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2026-03-12T09:54:39.061019482+10:00"
+    created: "2026-03-12T15:55:11.588302113+10:00"
     description: A Helm chart for deploying Jenkins on OpenShift
     digest: c74406aceee8c34325782cec24d95caed0c55b0e11e516df799d8952029e4a4a
     home: https://github.com/rht-labs/helm-charts
@@ -1070,7 +1081,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2026-03-12T09:54:39.062463238+10:00"
+    created: "2026-03-12T15:55:11.590663853+10:00"
     description: A Helm chart for deploying Jenkins on OpenShift
     digest: 7768b83b0286e78f5ff0c300b22cc60fe285ffad8b5be4c1b56eac77c8d298d0
     home: https://github.com/rht-labs/helm-charts
@@ -1083,7 +1094,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2026-03-12T09:54:39.061914768+10:00"
+    created: "2026-03-12T15:55:11.589720074+10:00"
     description: A Helm chart for deploying Jenkins on OpenShift
     digest: 38d26847799b5e83a57139fc1658443946ef935c35148ed1b66edeb2d9e541d0
     home: https://github.com/rht-labs/charts
@@ -1096,7 +1107,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2026-03-12T09:54:39.060457659+10:00"
+    created: "2026-03-12T15:55:11.587487472+10:00"
     description: A Helm chart for deploying Jenkins on OpenShift
     digest: ac4587fc53af5d6bb3772f056b41ae270daf03370115ca6d087ebfe21326d260
     home: https://github.com/rht-labs/charts
@@ -1110,7 +1121,7 @@ entries:
   kritis-charts:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2026-03-12T09:54:39.063576282+10:00"
+    created: "2026-03-12T15:55:11.591379218+10:00"
     description: A Helm chart for Kubernetes
     digest: aa71f6c79462726d858a68c95fb5da4f3f0af9ca5e2f7516945b0ae571e67be0
     name: kritis-charts
@@ -1120,7 +1131,7 @@ entries:
   kubernetes-mcp-server:
   - apiVersion: v2
     appVersion: latest
-    created: "2026-03-12T09:54:39.06455923+10:00"
+    created: "2026-03-12T15:55:11.592941689+10:00"
     description: Helm Chart for the Kubernetes MCP Server
     digest: ebfb704f8b05c4dee4910c29c0d2b62e0dc2c0c523953b227ca1b9654991fc52
     home: https://github.com/containers/kubernetes-mcp-server
@@ -1139,7 +1150,7 @@ entries:
   lemonade-stand-assistant:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.06509296+10:00"
+    created: "2026-03-12T15:55:11.593927538+10:00"
     description: A Helm chart for Lemonade Stand Assistant Application
     digest: 875b56830fdddc3c120b4fec87d345e97f5c0b297317e768633cd02f17866b2a
     maintainers:
@@ -1153,7 +1164,7 @@ entries:
   ml-aml-workshop:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2026-03-12T09:54:39.06566541+10:00"
+    created: "2026-03-12T15:55:11.594551298+10:00"
     description: A Helm chart for installing AI-ML-Workshop
     digest: 7d1ee0aa5fc95e241fb65fc95cde143fa802109fd6ed59038cf66328a502bc53
     home: https://rht-labs.github.io/helm-charts/
@@ -1169,7 +1180,7 @@ entries:
   my-splunk:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2026-03-12T09:54:39.072424197+10:00"
+    created: "2026-03-12T15:55:11.60466281+10:00"
     dependencies:
     - name: mongodb
       repository: https://charts.bitnami.com/bitnami
@@ -1184,7 +1195,7 @@ entries:
   openclaw:
   - apiVersion: v2
     appVersion: latest
-    created: "2026-03-12T09:54:39.0735757+10:00"
+    created: "2026-03-12T15:55:11.605897033+10:00"
     description: OpenClaw AI Agent Gateway for OpenShift and Kubernetes
     digest: ccf6895488c3b5952cc01efaf52540d255a144ed4c1ecbcf43359160bb26d045
     home: https://github.com/openclaw
@@ -1201,7 +1212,7 @@ entries:
   pet-battle:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.074095223+10:00"
+    created: "2026-03-12T15:55:11.606887152+10:00"
     description: A Helm chart to deploy the frontend of the Pet Battle
     digest: fb35647b77d8bc249649dd4e4b67731b93313935bdf33e2946696c51854c4ce1
     home: https://springdo.github.io/pet-battle
@@ -1214,7 +1225,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.073802263+10:00"
+    created: "2026-03-12T15:55:11.606223578+10:00"
     description: A Helm chart to deploy the frontend of the Pet Battle
     digest: aa117e5fcffc75803d4bb8d42be3eec648d8f6388083c59be3ccf7ce0799dd4a
     name: pet-battle
@@ -1225,7 +1236,7 @@ entries:
   pet-battle-api:
   - apiVersion: v2
     appVersion: 1.5.0
-    created: "2026-03-12T09:54:39.086286844+10:00"
+    created: "2026-03-12T15:55:11.626039341+10:00"
     description: Pet Battle API
     digest: 7093dede12dafb171a95741ff150eb9add7e3d2de05a0ea2cad8614ef12f71ce
     home: https://petbattle.github.io/helm-charts
@@ -1243,7 +1254,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: 1.5.0
-    created: "2026-03-12T09:54:39.085550654+10:00"
+    created: "2026-03-12T15:55:11.624258563+10:00"
     description: Pet Battle API
     digest: d1bc603c02aacbd6065c5e7e790714bcc4b6326e26f467a52c9b693132d69630
     home: https://petbattle.github.io/helm-charts
@@ -1261,7 +1272,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: 1.5.0
-    created: "2026-03-12T09:54:39.084615103+10:00"
+    created: "2026-03-12T15:55:11.6224313+10:00"
     description: Pet Battle API
     digest: 887ce4a46c33ceda903da0922f675ff08b75c02c7b2a29cc033283cfd2a1372d
     home: https://petbattle.github.io/helm-charts
@@ -1279,7 +1290,7 @@ entries:
     version: 1.2.3
   - apiVersion: v2
     appVersion: 1.1.1
-    created: "2026-03-12T09:54:39.083948719+10:00"
+    created: "2026-03-12T15:55:11.6203416+10:00"
     description: Pet Battle API
     digest: 84aed8f4e7a159e245eb5e7b5bd078ffaf18dab8d9d0dc5af12a58deb9f96914
     home: https://petbattle.github.io/helm-charts
@@ -1297,7 +1308,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-03-12T09:54:39.083260255+10:00"
+    created: "2026-03-12T15:55:11.61930865+10:00"
     description: Pet Battle API
     digest: f3089a5818817cff461816ef2e2c391fb93e31862f1f190a099f3a1a0ce4db19
     home: https://petbattle.github.io/helm-charts
@@ -1315,7 +1326,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.078655112+10:00"
+    created: "2026-03-12T15:55:11.612309105+10:00"
     description: "\U0001F9A9 Pet Battle API \U0001F9A9"
     digest: ed2f7d028abdcdb183d2ba9ab72305f0ac2a8679d70180fbdbc456d5be883663
     home: https://eformat.github.io/helm-charts
@@ -1329,7 +1340,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.0825561+10:00"
+    created: "2026-03-12T15:55:11.618295254+10:00"
     description: A Helm chart for Kubernetes
     digest: 5de0eb22f6781e1780a82fc79a5541b29aa7ef53ff678cb67857d4073daa889c
     home: https://eformat.github.io/helm-charts
@@ -1342,7 +1353,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.082004185+10:00"
+    created: "2026-03-12T15:55:11.617415056+10:00"
     description: A Helm chart for Kubernetes
     digest: 1b181f48dd87fc66e514fc3c9a5be052b6f387b079b8fa43a8c67cdb758d963a
     home: https://eformat.github.io/helm-charts
@@ -1355,7 +1366,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.081365529+10:00"
+    created: "2026-03-12T15:55:11.616381639+10:00"
     description: A Helm chart for Kubernetes
     digest: daf5621c9f22fcd7ed4363bfd0c44abdfd31418d99daa2bc92974e64b13032c6
     home: https://eformat.github.io/helm-charts
@@ -1368,7 +1379,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.080755918+10:00"
+    created: "2026-03-12T15:55:11.615495442+10:00"
     description: A Helm chart for Kubernetes
     digest: dda5aca69c6d2888665d7f227fde6b8277ae41e304601baeaddc15d61a50c150
     home: https://eformat.github.io/helm-charts
@@ -1381,7 +1392,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.080159312+10:00"
+    created: "2026-03-12T15:55:11.614587138+10:00"
     description: A Helm chart for Kubernetes
     digest: e9b74449301fcc69b0562ab25c6fc7da74af3c29e273eb45874fcf049f015874
     home: https://eformat.github.io/helm-charts
@@ -1394,7 +1405,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.079626153+10:00"
+    created: "2026-03-12T15:55:11.613884365+10:00"
     description: A Helm chart for Kubernetes
     digest: bcb2ac7ff345ec53c3c40d0431f9fb64e5fb8ea3d991312848a92b82d8cb810a
     home: https://eformat.github.io/helm-charts
@@ -1407,7 +1418,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.079130657+10:00"
+    created: "2026-03-12T15:55:11.613051968+10:00"
     description: A Helm chart for Kubernetes
     digest: 8f6498f926879bd8f45c0b96f52d400508e673fb69a6e98fdf8630aafff55613
     home: https://eformat.github.io/helm-charts
@@ -1420,7 +1431,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.078083304+10:00"
+    created: "2026-03-12T15:55:11.61124653+10:00"
     description: A Helm chart for Kubernetes
     digest: 6699b07cbe451938ff0e7742ec201ce8b83f2ccaf29903e59bc844779ed1469d
     home: https://eformat.github.io/helm-charts
@@ -1433,7 +1444,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: latest
-    created: "2026-03-12T09:54:39.077656813+10:00"
+    created: "2026-03-12T15:55:11.610437947+10:00"
     description: A Helm chart for Kubernetes
     digest: 751fd8013e3ef6eb7851618d102eb738281f2b042c35ff726733ecbf8ecdf4bd
     home: https://eformat.github.io/helm-charts
@@ -1446,7 +1457,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.077234585+10:00"
+    created: "2026-03-12T15:55:11.609818309+10:00"
     description: A Helm chart for Kubernetes
     digest: c9fd10a9c9dc1b8ea6943874645d8c43c45af2b8c256d3e55895eaa866fe7f70
     name: pet-battle-api
@@ -1456,7 +1467,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.076750484+10:00"
+    created: "2026-03-12T15:55:11.609099808+10:00"
     dependencies:
     - name: mongodb-replicaset
       repository: https://kubernetes-charts.storage.googleapis.com
@@ -1471,7 +1482,7 @@ entries:
   pet-battle-infra:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.090231555+10:00"
+    created: "2026-03-12T15:55:11.631162502+10:00"
     description: Pet Battle Infrastructure
     digest: 959631e799cd7918e06411e8b97001e582cc4ef238eea8206e9168b771d31eb0
     home: https://petbattle.github.io/helm-charts
@@ -1486,7 +1497,7 @@ entries:
     version: 1.0.32
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.088905189+10:00"
+    created: "2026-03-12T15:55:11.628965877+10:00"
     description: Pet Battle Infrastructure
     digest: d49cd91e2235524a23e959140530d1ce48a33c8191ab56ec92336279b3a6019b
     home: https://petbattle.github.io/helm-charts
@@ -1501,7 +1512,7 @@ entries:
     version: 1.0.30
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.088143476+10:00"
+    created: "2026-03-12T15:55:11.627698411+10:00"
     description: A Helm chart for Pet Battle Infrastructure
     digest: 478babcc7fcd1d315640208030c61b6202c32cbc5f32743687c6d50e4e23a029
     home: https://petbattle.github.io/helm-charts
@@ -1515,7 +1526,7 @@ entries:
     version: 1.0.14
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.090932327+10:00"
+    created: "2026-03-12T15:55:11.632412447+10:00"
     dependencies:
     - name: pet-battle-infra-subs
       repository: https://eformat.github.io/helm-charts
@@ -1536,7 +1547,7 @@ entries:
   pet-battle-infra-subs:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.091907377+10:00"
+    created: "2026-03-12T15:55:11.633882288+10:00"
     description: A Helm chart for Pet Battle Infrastructure Operator Subscription
     digest: b2131661bf4b0fe1c62e241f8e3a1cfcaf9d1140c16b1bfe00adb3b61f49d0a0
     home: https://petbattle.github.io/helm-charts
@@ -1549,7 +1560,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.091584461+10:00"
+    created: "2026-03-12T15:55:11.633425199+10:00"
     description: A Helm chart for Pet Battle Infrastructure Operator Subscription
     digest: fc85a68af8e154fc7dda97e5acf78483b3d1994fc7050d47876e8ee036e8dd92
     home: https://petbattle.github.io/helm-charts
@@ -1563,7 +1574,7 @@ entries:
   pet-battle-keycloak:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.092213861+10:00"
+    created: "2026-03-12T15:55:11.634343868+10:00"
     description: Pet Battle SSO
     digest: 0bcc3d4b077361e061410af9cd358bb902a1e1593cfc1cd955c928b5b923c8e3
     home: https://petbattle.github.io/helm-charts
@@ -1580,7 +1591,7 @@ entries:
   pet-battle-nsff:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2026-03-12T09:54:39.09252265+10:00"
+    created: "2026-03-12T15:55:11.634822124+10:00"
     description: A Helm chart for installing NSFF Pet Battle AI-ML components
     digest: 045fd6a166daa78bbafb5295b024701a6a56efc27a9a6527bca5660cabc12aeb
     home: https://petbattle.github.io/helm-charts/
@@ -1594,7 +1605,7 @@ entries:
   pet-battle-nsfw:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2026-03-12T09:54:39.093419872+10:00"
+    created: "2026-03-12T15:55:11.636084138+10:00"
     description: A Helm chart for installing NSFW Pet Battle AI-ML components
     digest: 99a52017d80d82f61a82100490cd4aa7db300762e41c3202c32d843a14beeff0
     home: https://eformat.github.io/helm-charts/
@@ -1607,7 +1618,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2026-03-12T09:54:39.092990723+10:00"
+    created: "2026-03-12T15:55:11.635446211+10:00"
     description: A Helm chart for installing NSFW Pet Battle AI-ML components
     digest: 47c7539be313133c7ed90610d3010a313f5e51c09deadc93e47381ba0570276b
     home: https://eformat.github.io/helm-charts/
@@ -1621,7 +1632,7 @@ entries:
   pet-battle-tournament:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.099714395+10:00"
+    created: "2026-03-12T15:55:11.646006394+10:00"
     dependencies:
     - import-values:
       - child: infinispan
@@ -1646,7 +1657,7 @@ entries:
     version: 1.0.40
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.098260823+10:00"
+    created: "2026-03-12T15:55:11.643676619+10:00"
     dependencies:
     - import-values:
       - child: infinispan
@@ -1671,7 +1682,7 @@ entries:
     version: 1.0.39
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.097030875+10:00"
+    created: "2026-03-12T15:55:11.641835221+10:00"
     dependencies:
     - import-values:
       - child: infinispan
@@ -1696,7 +1707,7 @@ entries:
     version: 1.0.38
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.095677009+10:00"
+    created: "2026-03-12T15:55:11.639083942+10:00"
     dependencies:
     - import-values:
       - child: infinispan
@@ -1720,7 +1731,7 @@ entries:
     version: 1.0.29
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.094502755+10:00"
+    created: "2026-03-12T15:55:11.637631461+10:00"
     dependencies:
     - import-values:
       - child: infinispan
@@ -1745,7 +1756,7 @@ entries:
   ploigos:
   - apiVersion: v2
     appVersion: 0.0.14
-    created: "2026-03-12T09:54:39.101082025+10:00"
+    created: "2026-03-12T15:55:11.646687296+10:00"
     description: A Helm chart for Ploigos - Trusted Software Supply Chain
     digest: 5d782e2fe8ead45326b7c3dc2c5f69daeea2a1254d89f6df7b5d218ec0bae1ad
     home: https://github.com/redhat-cop/helm-charts
@@ -1758,7 +1769,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: latest
-    created: "2026-03-12T09:54:39.10079831+10:00"
+    created: "2026-03-12T15:55:11.646363312+10:00"
     description: A Helm chart for Ploigos - Trusted Software Supply Chain
     digest: bd111c4576c43ea8f6c40260385c5f6def7f8584aaf2483d223985d097702284
     home: https://github.com/redhat-cop/helm-charts
@@ -1772,7 +1783,7 @@ entries:
   ploigos-subs:
   - apiVersion: v2
     appVersion: 0.0.14
-    created: "2026-03-12T09:54:39.101295856+10:00"
+    created: "2026-03-12T15:55:11.647260465+10:00"
     description: A Helm chart for Ploigos Operator Subscriptions
     digest: 7bc63e78f7a9da5322d48dcec71dfffe8d39aaf6fa8fdc3a91fef01cb607edad
     home: https://github.com/redhat-cop/helm-charts
@@ -1786,7 +1797,7 @@ entries:
   popular-moviestore:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.101713767+10:00"
+    created: "2026-03-12T15:55:11.648715393+10:00"
     description: A Helm chart for Kubernetes
     digest: 07f5e257c8fbd7161b6b6218fc3900334e73add2f5ff2153467fd314211514e6
     home: https://eformat.github.io/helm-charts
@@ -1799,7 +1810,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.101492866+10:00"
+    created: "2026-03-12T15:55:11.64806177+10:00"
     description: A Helm chart for Kubernetes
     digest: a396a8ba0895df0777524fefc688707141f31c9fbac8de6fc6cd84932bce20ef
     home: https://eformat.github.io/helm-charts
@@ -1813,7 +1824,7 @@ entries:
   rainforest-base:
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2026-03-12T09:54:39.125121845+10:00"
+    created: "2026-03-12T15:55:11.682998484+10:00"
     dependencies:
     - condition: gitops-operator.enabled
       name: gitops-operator
@@ -1834,7 +1845,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2026-03-12T09:54:39.111574539+10:00"
+    created: "2026-03-12T15:55:11.666919343+10:00"
     dependencies:
     - condition: gitops-operator.enabled
       name: gitops-operator
@@ -1856,7 +1867,7 @@ entries:
   sonarqube:
   - apiVersion: v2
     appVersion: 9.9.1-community
-    created: "2026-03-12T09:54:39.132716305+10:00"
+    created: "2026-03-12T15:55:11.690791808+10:00"
     description: SonarQube is an open sourced code quality scanning tool
     digest: 5ccfe82eabbd1c31c337c19fce0e7b9c57530e21afe89151ffd061771bf670a2
     home: https://github.com/redhat-cop/helm-charts
@@ -1874,7 +1885,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 9.9.1-community
-    created: "2026-03-12T09:54:39.131765534+10:00"
+    created: "2026-03-12T15:55:11.690092173+10:00"
     description: SonarQube is an open sourced code quality scanning tool
     digest: d57937c621a5a175881ca1bd418380ede6f73b048e39a78a251c8b1547e6fab8
     home: https://github.com/redhat-cop/helm-charts
@@ -1892,7 +1903,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 9.2.4-community
-    created: "2026-03-12T09:54:39.131054317+10:00"
+    created: "2026-03-12T15:55:11.68938546+10:00"
     description: SonarQube is an open sourced code quality scanning tool
     digest: efc775d8505a9cdb65d3e282adc3b19835c47bf79254d1c9c550cc2bba1c7a9e
     home: https://github.com/redhat-cop/helm-charts
@@ -1910,7 +1921,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 9.1.0-community
-    created: "2026-03-12T09:54:39.12708065+10:00"
+    created: "2026-03-12T15:55:11.686141791+10:00"
     description: SonarQube is an open sourced code quality scanning tool
     digest: 22b304e7385e07a20d079bd23e2e67519f7a85bde531aad333ea65c188e3a8e0
     home: https://github.com/redhat-cop/helm-charts
@@ -1928,7 +1939,7 @@ entries:
     version: 0.0.17
   - apiVersion: v2
     appVersion: 9.0.1-community
-    created: "2026-03-12T09:54:39.126436765+10:00"
+    created: "2026-03-12T15:55:11.68509471+10:00"
     description: SonarQube is an open sourced code quality scanning tool
     digest: 2f72c3db7f4279c4b20993a7e73d786b98d99ce3faba8679cca82c470706b3b4
     home: https://github.com/redhat-cop/helm-charts
@@ -1946,7 +1957,7 @@ entries:
     version: 0.0.16
   - apiVersion: v2
     appVersion: 8.9.0-community
-    created: "2026-03-12T09:54:39.125775897+10:00"
+    created: "2026-03-12T15:55:11.684083478+10:00"
     description: SonarQube is an open sourced code quality scanning tool
     digest: 46a6f049987567694eff0e5cf9653e76064a02865b9f950d6ffce785192ab8e7
     home: https://github.com/redhat-cop/helm-charts
@@ -1964,7 +1975,7 @@ entries:
     version: 0.0.15
   - apiVersion: v1
     appVersion: 8.2-community
-    created: "2026-03-12T09:54:39.130321185+10:00"
+    created: "2026-03-12T15:55:11.688690209+10:00"
     description: SonarQube is an open sourced code quality scanning tool
     digest: 5320718d0d68d5fd3bf54a6a0851d94bbaa1f9f4eca91d0fb2053e7fd40b7959
     home: https://github.com/redhat-cop/helm-charts
@@ -1982,7 +1993,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: 8.2-community
-    created: "2026-03-12T09:54:39.129258962+10:00"
+    created: "2026-03-12T15:55:11.687895894+10:00"
     description: SonarQube is an open sourced code quality scanning tool
     digest: 1fa58c031d0c93bb70932845bbf5b3a5464dbf5c5c6db24b7efffca83faa192f
     home: https://github.com/redhat-cop/helm-charts
@@ -2000,7 +2011,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: 8.2-community
-    created: "2026-03-12T09:54:39.127670024+10:00"
+    created: "2026-03-12T15:55:11.687055852+10:00"
     description: SonarQube is an open sourced code quality scanning tool
     digest: cfa6fad38995b64e099a531ac2cb38d2a9090e83b9045d048f2424b70b08eff9
     home: https://github.com/eformat/charts
@@ -2018,7 +2029,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 8.2-community
-    created: "2026-03-12T09:54:39.133881249+10:00"
+    created: "2026-03-12T15:55:11.691912989+10:00"
     description: SonarQube is an open sourced code quality scanning tool
     digest: 38f830ed719eaddf0776303dd8ddd6dde1b4d2caecb0dfe17bff638106f28a8f
     home: https://www.sonarqube.org/
@@ -2039,7 +2050,7 @@ entries:
   sonarqube-config:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.132953791+10:00"
+    created: "2026-03-12T15:55:11.69112159+10:00"
     description: Create SonarQube Quality Gate
     digest: 9764d7835a341e3ec2f0b28f6bf553a94b1e5501852cfaf9ba17354e3938e1f1
     name: sonarqube-config
@@ -2050,7 +2061,7 @@ entries:
   sonatype-nexus:
   - apiVersion: v2
     appVersion: 3.43.0
-    created: "2026-03-12T09:54:39.143613817+10:00"
+    created: "2026-03-12T15:55:11.699601871+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: f1fd680de6a66c3b8a64526d51648e27a7be96c7b75f7a284cd302485eb52e4d
     home: https://github.com/redhat-cop/helm-charts
@@ -2067,7 +2078,7 @@ entries:
     version: 1.1.11
   - apiVersion: v2
     appVersion: 3.41.1
-    created: "2026-03-12T09:54:39.14276274+10:00"
+    created: "2026-03-12T15:55:11.69883196+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: 29e763f4483744824fb6ced26fbfcd30d1cf01d3e5b134a75fdd8eeeb000ec33
     home: https://github.com/redhat-cop/helm-charts
@@ -2084,7 +2095,7 @@ entries:
     version: 1.1.10
   - apiVersion: v2
     appVersion: 3.38.1
-    created: "2026-03-12T09:54:39.147039422+10:00"
+    created: "2026-03-12T15:55:11.702025435+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: 1a473a58588911c21abc39b5154ff477ece847818a3bf8af34fd7a3bfe3d7483
     home: https://github.com/redhat-cop/helm-charts
@@ -2100,7 +2111,7 @@ entries:
     version: 1.1.8
   - apiVersion: v2
     appVersion: 3.38.1
-    created: "2026-03-12T09:54:39.146203791+10:00"
+    created: "2026-03-12T15:55:11.701430632+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: 8494795d039eaceacd3ba9cd8bc685294d1b540a8110444712243edead6a8a43
     home: https://github.com/redhat-cop/helm-charts
@@ -2116,7 +2127,7 @@ entries:
     version: 1.1.4
   - apiVersion: v2
     appVersion: 3.37.3
-    created: "2026-03-12T09:54:39.145316136+10:00"
+    created: "2026-03-12T15:55:11.700789547+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: e9c239a7925a8ca4ea2ee89d0886a2d1d78237e2e67a28a0f3e87a4bc59aa660
     home: https://github.com/redhat-cop/helm-charts
@@ -2132,7 +2143,7 @@ entries:
     version: 1.1.3
   - apiVersion: v2
     appVersion: 3.36.0
-    created: "2026-03-12T09:54:39.144439229+10:00"
+    created: "2026-03-12T15:55:11.700206828+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: 1d01e4ee39e9ccff6ab22ef8cda9225d074709bda270d78a7356b87990ceafe1
     home: https://github.com/redhat-cop/helm-charts
@@ -2148,7 +2159,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 3.35.0
-    created: "2026-03-12T09:54:39.141861188+10:00"
+    created: "2026-03-12T15:55:11.697307071+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: 53e3e505f7251624e3b107f0d2f1bf9b9203841e36ea85d0091ec00499278f5a
     home: https://github.com/redhat-cop/helm-charts
@@ -2164,7 +2175,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 3.33.0
-    created: "2026-03-12T09:54:39.139854044+10:00"
+    created: "2026-03-12T15:55:11.696653999+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: 30ce1ca094daff8ed5a64bb2919e50151dbb9b4776c8a42fe5c5145a7ffcfce6
     home: https://github.com/redhat-cop/helm-charts
@@ -2180,7 +2191,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 3.29.1
-    created: "2026-03-12T09:54:39.136114215+10:00"
+    created: "2026-03-12T15:55:11.693882317+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: 1c43f21c9b60b95a9436255824103766abcd7312b17b0a3abc151be1eca3ad86
     home: https://github.com/redhat-cop/helm-charts
@@ -2195,7 +2206,7 @@ entries:
     version: 0.0.14
   - apiVersion: v2
     appVersion: 3.29.1
-    created: "2026-03-12T09:54:39.135246524+10:00"
+    created: "2026-03-12T15:55:11.693139296+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: 1f161a2b332845c662b782802df098b8241a1600dbee78e1fba600683c83cc36
     home: https://github.com/redhat-cop/helm-charts
@@ -2210,7 +2221,7 @@ entries:
     version: 0.0.13
   - apiVersion: v1
     appVersion: 3.29.1
-    created: "2026-03-12T09:54:39.139058937+10:00"
+    created: "2026-03-12T15:55:11.696086342+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: 79d6d2c5af67bc30eb224e022d35e8d8aee920a09f6cd68ea501a5f882613ced
     home: https://github.com/redhat-cop/helm-charts
@@ -2224,7 +2235,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: 3.29.0
-    created: "2026-03-12T09:54:39.13831817+10:00"
+    created: "2026-03-12T15:55:11.695541049+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: 122448bfab4075dd2db23befe5cd5e709bf73c87004b63728a217c9ac67f29f4
     home: https://github.com/redhat-cop/helm-charts
@@ -2238,7 +2249,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: 3.23.0
-    created: "2026-03-12T09:54:39.13756655+10:00"
+    created: "2026-03-12T15:55:11.695007526+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: bc1d972773fcb907fb08e9e05a97f2de8cb183b8e64c51925ca039f0e30489d2
     home: https://github.com/rht-labs/helm-charts
@@ -2252,7 +2263,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 3.23.0
-    created: "2026-03-12T09:54:39.136848219+10:00"
+    created: "2026-03-12T15:55:11.694491173+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: 23d5153ac70f5822208ea0af08636dc8069846401ae8f4900a5cae2553db9aa4
     home: https://github.com/rht-labs/helm-charts
@@ -2266,7 +2277,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 3.23.0
-    created: "2026-03-12T09:54:39.134532094+10:00"
+    created: "2026-03-12T15:55:11.69249267+10:00"
     description: Sonatype Nexus is an open source repository manager
     digest: 816fc80f36be052afe8a53befcb49a3ae1a3e3e41584611848405e036b898eeb
     home: https://github.com/rht-labs/helm-charts
@@ -2280,7 +2291,7 @@ entries:
     version: 0.0.1
   stackrox-chart:
   - apiVersion: v2
-    created: "2026-03-12T09:54:39.148061972+10:00"
+    created: "2026-03-12T15:55:11.703106514+10:00"
     description: Install and Configure Stackrox
     digest: 87e02a7549bb6778f6179f652269cde0a692da379e7c000d691a7f55d6b49c95
     home: https://github.com/redhat-cop/helm-charts
@@ -2293,7 +2304,7 @@ entries:
     - https://eformat.github.io/helm-charts/stackrox-chart-0.0.8.tgz
     version: 0.0.8
   - apiVersion: v2
-    created: "2026-03-12T09:54:39.147718421+10:00"
+    created: "2026-03-12T15:55:11.702691594+10:00"
     description: Install and Configure Stackrox
     digest: 69536d696e48b8abeccaa2047959116eb1b3cc8ec66c6c17d1a477219c957afb
     home: https://github.com/redhat-cop/helm-charts
@@ -2306,7 +2317,7 @@ entries:
     - https://eformat.github.io/helm-charts/stackrox-chart-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v2
-    created: "2026-03-12T09:54:39.147406312+10:00"
+    created: "2026-03-12T15:55:11.702355667+10:00"
     description: Install and Configure Stackrox
     digest: f9b2473558446c7e85846af373a10dd722fb2508969278685719314d18810d6a
     home: https://github.com/redhat-cop/helm-charts
@@ -2321,7 +2332,7 @@ entries:
   tl500-teamsters:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2026-03-12T09:54:39.148442054+10:00"
+    created: "2026-03-12T15:55:11.70349939+10:00"
     description: A Helm chart for Kubernetes
     digest: 5e7f44ae9cd081195c795c3d452573e6f7ea5a772b4d94f9a5469a6f1b94114c
     home: https://rht-labs/tl500-teamsters/helm-charts
@@ -2339,7 +2350,7 @@ entries:
   vmc:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2026-03-12T09:54:39.148680525+10:00"
+    created: "2026-03-12T15:55:11.704102877+10:00"
     description: Create VMC Clusters
     digest: 4ad750ac1430244a39aa2dbdab01d638f2fb1c0c97653b275b04b1b083c65aa6
     name: vmc
@@ -2350,7 +2361,7 @@ entries:
   word-analyzer:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-12T09:54:39.149021089+10:00"
+    created: "2026-03-12T15:55:11.704394597+10:00"
     description: Word Analyzer
     digest: e14b251ac037048376fbc7f29f089db836fb7be913f00f98f37a91793495ab29
     home: https://labs/helm-charts
@@ -2365,4 +2376,4 @@ entries:
     urls:
     - https://eformat.github.io/helm-charts/word-analyzer-1.0.0.tgz
     version: 1.0.0
-generated: "2026-03-12T09:54:38.764949573+10:00"
+generated: "2026-03-12T15:55:11.218298064+10:00"
